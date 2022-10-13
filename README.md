@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any of the presented data analysis projects and open to other projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kakakux?tab=repositories](https://github.com/Courage-Kusosa?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Courage-Kusosa?tab=repositories](https://github.com/Courage-Kusosa?tab=repositories)
 
 - 💬 Ask me about **anything Data analytics related**
 
