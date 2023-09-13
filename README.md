@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Courage Kusosa</h1>
-<h3 align="center">A passionate student data analyst from Zimbabwe</h3>
+<h3 align="center">A passionate student data scientist from Zimbabwe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakakux&label=Profile%20views&color=0e75b6&style=flat" alt="kakakux" /> </p>
 
