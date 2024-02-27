@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakakux&label=Profile%20views&color=0e75b6&style=flat" alt="kakakux" /> </p>
 
-- 🔭 I’m currently working on **building up my Github profile with Data Analysis Projects**
+- 🔭 I’m currently working on **building up my Github profile with Data Science Projects**
 
 - 🌱 I’m currently learning **Google Data Analytics Course, basic of exploratory data analysis, Regression, SQL, Excel, Python**
 
